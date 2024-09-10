@@ -1,3 +1,3 @@
 function myShit() {
-    window.open("/storage/emulated/0/Documents/por/miweoroos/apps/start/index.html")
+    window.open("https://miweoroooo192.github.io/miweoroos.github.io/apps/start/index.html")
 }
